@@ -4,6 +4,12 @@
       "title": "My Test Stream",
       "description": "This is a test stream!",
       "id": 1
+    },
+    {
+      "title": "Old Games",
+      "description": "Come watch some old games!",
+      "userId": "115705795597298311301",
+      "id": 2
     }
   ]
 }
